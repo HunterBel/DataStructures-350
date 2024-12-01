@@ -1,0 +1,19 @@
+3
+10
+3
+5
+80
+5
+5
+5
+
+
+
+3 //L LxNxN
+10 //NxN
+3 //V lives must be positive 
+5 // coins
+80 // nothing 
+5 // goombas
+5 // koopas 
+5 // mushrooms 
