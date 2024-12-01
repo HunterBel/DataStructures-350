@@ -1,0 +1,5 @@
+Student ID: 43, Name: h, Year: h, Major: h, GPA: 3
+Faculty Members:
+Faculty ID: 10, Name: h, Department: h
+Faculty ID: 3, Name: h, Department: h
+Faculty ID: 8, Name: h, Department: h
